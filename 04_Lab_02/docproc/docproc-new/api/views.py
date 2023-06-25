@@ -21,7 +21,7 @@ username = 'admin'
 password = 'password'
 database = 'invoice'
 
-s3_target_bucket = 'test-src-june10'
+s3_target_bucket = 'jc-target-invoice-11-june-2023'
 
 
 # *******************************************************************************************************************
